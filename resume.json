@@ -4,26 +4,32 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736****86@qq.com",
-    "mobile": "156********",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://www.zhihu.com/people/visiky",
+    "name": "尹冀尧",
+    "email": "swagfrank@qq.com",
+    "mobile": "17640127413",
+    "github": "https://github.com/yinjy0",
+    "zhihu": "",
     "workExpYear": "",
-    "positionTitle": "数据可视化·前端工程师"
+    "positionTitle": "机械工程师"
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "edu_time": ["2016.09.01", "2020.06.30"],
+      "school": "沈阳航空航天大学",
+      "major": "机械设计制造及其自动化",
       "academic_degree": "本科"
+    },
+     {
+      "edu_time": ["2020.09.01", "2023.06.30"],
+      "school": "东北大学",
+      "major": "机械工程",
+      "academic_degree": "硕士"
     }
   ],
   "awardList": [
     {
       "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_time": "2017"
     },
     {
       "award_info": "蚂蚁近卫军 卓越个人奖",
